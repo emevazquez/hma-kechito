@@ -61,7 +61,7 @@ export default function Home() {
               </div>
               <div>
                 <p className="text-sm font-bold">Perfiles de Confianza</p>
-                <p className="text-xs text-slate-500">Alta terapéutica garantizada</p>
+                <p className="text-xs text-slate-500">Acompañamiento y referencias</p>
               </div>
             </div>
           </div>
